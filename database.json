@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "name": "Scott Cole",
+      "email": "sscole929@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Julie Foster",
+      "email": "jfoster@coolperson.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Michelle Primiani",
+      "email": "michprim@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Kevin Quail",
+      "email": "kquail@cohortfun.net"
+    },
+    {
+      "id": 5,
+      "name": "Nicholas Williams",
+      "email": "nwilly@nss.com"
+    },
+    {
+      "email": "pmedel@gmail.com",
+      "fullName": "Paolo Medel",
+      "id": 6
+    },
+    {
+      "email": "NotThatTSwift@gmail.com",
+      "fullName": "Tricia Swift",
+      "id": 7
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "GoodFellas",
+      "year": "1990",
+      "movieUrl": "https://www.movieposters.com/cdn/shop/products/ef4b93ef8f7157de3f97ae1ff5d21b56_0526bb98-1f4a-4da5-b928-b0025f5e6371_480x.progressive.jpg?v=1573585487",
+      "timestamp": "1:20:09",
+      "userId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Godfather, The",
+      "year": "1972",
+      "movieUrl": "https://i.ebayimg.com/images/g/mZcAAOSw9-ZdxWqS/s-l1600.jpg",
+      "timestamp": "00:58:44",
+      "userId": "4"
+    },
+    {
+      "id": 3,
+      "name": "Big Night",
+      "year": "1996",
+      "movieUrl": "https://i.ebayimg.com/images/g/LcIAAOSwB09YCr0P/s-l500.jpg",
+      "timestamp": "00:40:10",
+      "userId": "2"
+    },
+    {
+      "id": 4,
+      "name": "Hours, The",
+      "year": "2002",
+      "movieUrl": "https://m.media-amazon.com/images/I/51SoXjI22bL._AC_UF1000,1000_QL80_.jpg",
+      "timestamp": "00:51:05",
+      "userId": "3"
+    },
+    {
+      "id": 5,
+      "name": "Eat Drink Man Woman",
+      "year": "1994",
+      "movieUrl": "https://i.ebayimg.com/images/g/bGIAAOSwYIxYAk2V/s-l1600.jpg",
+      "timestamp": "0:00:01",
+      "userId": "1"
+    },
+    {
+      "id": 6,
+      "name": "Help, The",
+      "year": "2011",
+      "movieUrl": "https://m.media-amazon.com/images/I/71dEhiYst3L.jpg",
+      "timestamp": "1:04:37",
+      "userId": "1"
+    },
+    {
+      "id": 7,
+      "name": "Chef",
+      "year": "2014",
+      "movieUrl": "https://m.media-amazon.com/images/M/MV5BYTQyNDQwMjYtZTY5YS00MGU2LWE5NzctMjM4Y2IyYjkwMjNkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+      "timestamp": "00:19:45",
+      "userId": "5"
+    },
+    {
+      "id": 8,
+      "name": "Scream",
+      "year": "1996",
+      "movieUrl": "https://filmartgallery.com/cdn/shop/files/Scream-Vintage-Movie-Poster-Original-1-Sheet-27x41.jpg?v=1684213350",
+      "timestamp": "00:01:28",
+      "userId": "2"
+    },
+    {
+      "name": "Tampopo",
+      "year": "1985",
+      "movieUrl": "https://ih1.redbubble.net/image.3114410092.7289/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+      "timestamp": "00:42:58",
+      "userId": 6,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Menu, The",
+      "year": "2022",
+      "movieUrl": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+      "timestamp": "01:28:03",
+      "userId": 7
+    },
+    {
+      "name": "Bridesmaids",
+      "year": "2011",
+      "movieUrl": "https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_FMjpg_UX1000_.jpg",
+      "timestamp": "01:42:50",
+      "userId": 7,
+      "id": 12
+    },
+    {
+      "name": "Uncle Buck",
+      "year": "1989",
+      "movieUrl": "https://m.media-amazon.com/images/I/514Ous1XhNL._AC_UF894,1000_QL80_.jpg",
+      "timestamp": "00:45:45",
+      "userId": 6,
+      "id": 13
+    },
+    {
+      "name": "This Is the End",
+      "year": "2013",
+      "movieUrl": "https://i.etsystatic.com/20125910/r/il/43d470/5111772005/il_794xN.5111772005_aymn.jpg",
+      "timestamp": "00:33:02",
+      "userId": 6,
+      "id": 14
+    },
+    {
+      "name": "Kill Bill: Volume 2",
+      "year": "2004",
+      "movieUrl": "https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",
+      "timestamp": "01:28:28",
+      "userId": 3,
+      "id": 15
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "description": "Authentic Italian dinner in prison",
+      "mealUrl": "https://entertainment.time.com/wp-content/uploads/sites/3/2012/01/goodfellas.jpg?w=720&h=480&crop=1",
+      "userId": 1,
+      "movieId": 1
+    },
+    {
+      "id": 2,
+      "description": "Italian marinara sauce with meatballs and sausage",
+      "mealUrl": "https://miro.medium.com/v2/resize:fit:624/1*RDiSyFcmQrF3yVCSyDoNJQ.png",
+      "userId": 4,
+      "movieId": 2
+    },
+    {
+      "id": 3,
+      "description": "Timpano",
+      "mealUrl": "https://static01.nyt.com/images/2014/04/23/dining/Drum-of-Ziti/Drum-of-Ziti-articleLarge.jpg",
+      "userId": 2,
+      "movieId": 3
+    },
+    {
+      "id": 4,
+      "description": "Separating egg yolks",
+      "mealUrl": "https://media.timeout.com/images/100278273/image.jpg",
+      "userId": 3,
+      "movieId": 4
+    },
+    {
+      "id": 5,
+      "description": "Authentic Chinese meal",
+      "mealUrl": "https://i0.wp.com/the-avocado.org/wp-content/uploads/2020/05/Eat-Drink-27.png?fit=1366%2C732&ssl=1",
+      "userId": 2,
+      "movieId": 5
+    },
+    {
+      "id": 6,
+      "description": "Fried Chicken",
+      "mealUrl": "https://i.pinimg.com/736x/4a/5a/ed/4a5aedcc54821ac06afc6ac0c3d92137.jpg",
+      "userId": 2,
+      "movieId": 6
+    },
+    {
+      "id": 7,
+      "description": "Grilled cheese sandwich",
+      "mealUrl": "https://i.pinimg.com/originals/2f/11/d4/2f11d499ab6eac45e5b57da0360995b5.jpg",
+      "userId": 5,
+      "movieId": 7
+    },
+    {
+      "id": 8,
+      "description": "Stove-top popcorn",
+      "mealUrl": "https://pbs.twimg.com/tweet_video_thumb/EjqUPGOVkAIqXtI.jpg",
+      "userId": 3,
+      "movieId": 8
+    },
+    {
+      "description": "Omelet with rice",
+      "mealUrl": "https://assets.bonappetit.com/photos/58ff88882278cd3dbd2c06ca/master/w_1267,h_1013,c_limit/tampopo-still.jpg",
+      "userId": 6,
+      "movieId": 10,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "description": "Cheeseburger with fries",
+      "mealUrl": "https://people.com/thmb/hV3hZb2zGWRtvMpfvVOvJJiNtn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(587x151:589x153)/anya-taylor-joy-the-menu-011123-1-676cbfb1c7554c629a9b1544bd2450e7.jpg",
+      "userId": 7,
+      "movieId": 11
+    },
+    {
+      "description": "Baking a cake",
+      "mealUrl": "https://i.redd.it/7knlrw19lmf61.jpg",
+      "userId": 7,
+      "movieId": 12,
+      "id": 12
+    },
+    {
+      "description": "Giant pancakes",
+      "mealUrl": "https://i.pinimg.com/originals/97/5c/c8/975cc8179caaa439fbd0c87f6d559fee.jpg",
+      "userId": 6,
+      "movieId": 13,
+      "id": 13
+    },
+    {
+      "description": "Breakfast feast",
+      "mealUrl": "https://i.ytimg.com/vi/YMbsFQGqrHQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAxDa5PIoecOIBJO0vTmfvWufPqfg",
+      "userId": 6,
+      "movieId": 14,
+      "id": 14
+    },
+    {
+      "description": "Turkey sandwich with crusts cut off",
+      "mealUrl": "https://foodandafilmcom.files.wordpress.com/2020/04/09-sandwich-making.jpg?w=760",
+      "userId": 3,
+      "movieId": 15,
+      "id": 15
+    }
+  ]
+}
